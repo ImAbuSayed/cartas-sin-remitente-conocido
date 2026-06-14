@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-sin-remitente-conocido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cartas sin remitente conocido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-sin-remitente-conocido/) |
+| **Get License** | [Obtain a Music License for Cartas sin remitente conocido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-sin-remitente-conocido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fe40a798feb325ea5bb3da285fb77028384412b9dba5aa3d64e89ee8ff58c5af` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

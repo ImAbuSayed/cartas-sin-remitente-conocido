@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cartas sin remitente conocido
+
+This log tracks the cryptographic history and versioning for the song **Cartas sin remitente conocido** (cartas-sin-remitente-conocido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T21:52:26.179893 | `v1` | `fe40a798feb325ea5bb3da285fb77028384412b9dba5aa3d64e89ee8ff58c5af` | `b7d65bfa599622ed47b55219e5c909ac2487d83976a6d4b3983dc2025594a777` | `2026-06-14_cartas-sin-remitente-conocido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
