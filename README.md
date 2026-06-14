@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-sin-remitente-conocido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Cartas sin remitente conocido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-sin-remitente-conocido/) |
+| **Get License** | [Get a Licensing Quote for Cartas sin remitente conocido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-sin-remitente-conocido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tengo cartas sin remitente en el asiento de atrás
+> Baby, tú sabes mi nombre, no te me puedes escapar
+> Ese flow de Barcelona me tiene perdiendo el control
+> Esta noche somos fuego, quemando todo el pudor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
